@@ -22,7 +22,7 @@
 | [**IaC Security Scanner**](https://github.com/byboledi/IAC-Security-Scanner) | Scans Terraform (`.tf`) files for misconfigurations, plus checks username availability across platforms |
 | [**Trace Me**](https://github.com/byboledi/TraceMe) | OSINT tool that traces username availability and presence across multiple platforms |
 | [**LinkGuard**](https://github.com/byboledi/linkguard) | Focused on link safety and verification |
-| **Password Strength Checker** | Evaluates password strength against common attack patterns |
+
 
 ---
 
