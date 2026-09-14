@@ -1,6 +1,7 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:E8558F,100:B79CE0&height=200&section=header&text=Hey%2C%20Im%20byboledi&fontSize=42&fontColor=ffffff&animation=fadeIn)
+![Banner](<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/563e5195-3956-4bbe-a649-7e9553f41287" />
+)
 
 </div>
 
