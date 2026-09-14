@@ -1,13 +1,12 @@
 <div align="center">
 
-![Banner](<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/02f2966a-c8a3-4c2a-8690-2cbcc6c90e22" />
-)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:E8558F,100:B79CE0&height=200&section=header&text=Hey%2C%20Im%20byboledi&fontSize=42&fontColor=ffffff&animation=fadeIn)
 
 </div>
 
 ### About me
 
-- 🎓 Matriculant at Hyde Park High School
+- 🎓 Computer Science student at the University of Johannesburg
 - ☁️ Working toward becoming a **Cloud AI Architect**
 - 📜 Currently pursuing certifications across **AWS**, **Azure**, **GCP**, and **Cisco**
 - 🔐 Interested in cloud security, infrastructure automation, and OSINT
@@ -41,8 +40,4 @@
 
 ### 📫 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://linkedin.com/in/yourusername)<div align="center">
-
-
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://linkedin.com/in/yourusername)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/boledi-08b3ab414)
