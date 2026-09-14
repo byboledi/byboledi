@@ -1,6 +1,7 @@
 <div align="center">
 
-![Banner](https://chatgpt.com/backend-api/estuary/content?id=file_000000003f3881f4ae8cf862be967ae5&ts=497049&p=fs&cid=1&sig=7eae60b084a28ffe866578f0adb2bf1f87770de8beba5ee9d826864eef61f033&v=0)
+![Banner](<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/02f2966a-c8a3-4c2a-8690-2cbcc6c90e22" />
+)
 
 </div>
 
