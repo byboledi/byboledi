@@ -1,13 +1,12 @@
 <div align="center">
 
-![Banner](<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/563e5195-3956-4bbe-a649-7e9553f41287" />
-)
+![Banner](./banner.png)
 
 </div>
 
 ### About me
 
-- 🎓 General student at Hyde Park High School
+- 🎓 General student at the Hyde Park High School
 - ☁️ Working toward becoming a **Cloud AI Architect**
 - 📜 Currently pursuing certifications across **AWS**, **Azure**, **GCP**, and **Cisco**
 - 🔐 Interested in cloud security, infrastructure automation, and OSINT
@@ -17,12 +16,13 @@
 
 ### 🛠️ Projects
 
-Project	What it does
-Cost Anomaly Detector	Scans cloud billing data to flag unusual spending spikes — treating cost as an early security signal
-IaC Security Scanner	Scans Terraform (.tf) files for misconfigurations, plus checks username availability across platforms
-Trace Me	OSINT tool that traces username availability and presence across multiple platforms
-LinkGuard	Focused on link safety and verification
-Password Strength Checker	Evaluates password strength against common attack patterns
+| Project | What it does |
+|---|---|
+| [**Cost Anomaly Detector**](https://github.com/byboledi/Cost-Anomaly-Detector) | Scans cloud billing data to flag unusual spending spikes — treating cost as an early security signal |
+| [**IaC Security Scanner**](https://github.com/byboledi/IAC-Security-Scanner) | Scans Terraform (`.tf`) files for misconfigurations, plus checks username availability across platforms |
+| [**Trace Me**](https://github.com/byboledi/TraceMe) | OSINT tool that traces username availability and presence across multiple platforms |
+| [**LinkGuard**](https://github.com/byboledi/linkguard) | Focused on link safety and verification |
+| **Password Strength Checker** | Evaluates password strength against common attack patterns |
 
 ---
 
