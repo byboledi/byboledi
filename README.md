@@ -17,12 +17,12 @@
 
 ### 🛠️ Projects
 
-| Project | What it does |
-|---|---|
-| [**Cost Anomaly Detector**](https://github.com/byboledi/Cost-Anomaly-Detector) | Scans cloud billing data to flag unusual spending spikes — treating cost as an early security signal |
-| **IaC Security Scanner**(https://github.com/byboledi/IAC-Security-Scanner)| Scans Terraform (`.tf`) files for misconfigurations, plus checks username availability across platforms |
-| **Trace Me** (https://github.com/byboledi/TracMe)| OSINT tool that traces username availability and presence across multiple platforms |
-| **LinkGuard** (https://github.com/byboledi/linkguard)| Focused on link safety and verification |
+Project	What it does
+Cost Anomaly Detector	Scans cloud billing data to flag unusual spending spikes — treating cost as an early security signal
+IaC Security Scanner	Scans Terraform (.tf) files for misconfigurations, plus checks username availability across platforms
+Trace Me	OSINT tool that traces username availability and presence across multiple platforms
+LinkGuard	Focused on link safety and verification
+Password Strength Checker	Evaluates password strength against common attack patterns
 
 ---
 
