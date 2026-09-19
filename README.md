@@ -1,9 +1,8 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=180&section=header&text=Boledi&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Engineering%20intelligent%20futures%20through%20Cloud%2C%20AI%20%26%20Cybersecurity&descAlignY=75" />
-</p>
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&center=true&vCenter=true&width=600&lines=Cloud+AI+Architect+in+the+making;AWS+%7C+Azure+%7C+GCP+%7C+Cisco+Certified+Path;Cloud+Security+%7C+Infra+Automation+%7C+OSINT" alt="Typing SVG" /></a>
-</p>
+<div align="center">
+
+<img src="./boledi-y2k-banner.png" width="100%" alt="Boledi — Cloud AI Architect">
+
+</div>
 ### About me
 
 - 🎓 General student at the Hyde Park High School
