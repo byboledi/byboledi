@@ -3,28 +3,26 @@
 <div align="center">
   <table>
     <tr>
-      <!-- Left Column: Themed Pixel Art Mascot -->
-      <td align="center" valign="middle">
-        <img src="https://giphy.com" width="100" alt="Cyber Pink Pixel Mascot">
+      <!-- Left Column: Replace './assets/mascot.gif' with your uploaded pixel art file -->
+      <td align="center" valign="middle" width="120">
+        <img src="./assets/mascot.gif" width="90" alt="Cyber Pink Pixel Mascot">
       </td>
-      <!-- Right Column: Pink Custom ASCII Font -->
+      <!-- Right Column: Solid Cyber-Pink BOLEDI ASCII Font -->
       <td valign="middle">
         <pre align="left">
-<font color="#FF69B4"> █▄▄ ▄▀█ █▄░█ █▄░█ █▀▀ █▀█ </font>
-<font color="#FF007F"> █▄█ █▀█ █░▀█ █░▀█ ██▄ █▀▄ </font>
+<font color="#FF69B4"> █▀▄ █▀█ █░░ █▀▀ █▀▄ █ </font>
+<font color="#FF007F"> █▄▀ █▄█ █▄▄ ██▄ █▄▀ ▄ </font>
         </pre>
       </td>
     </tr>
   </table>
   <br>
-  <p>• 🎀 <code>SYSTEM STATUS: ONLINE</code> | <code>MOOD: CODING</code> ✨ •</p>
+  <!-- Custom subtitles matching the Japanese banner details (Vol.01 / 2003) -->
+  <p>• 🎀 <code>ボレディ // VOL.01</code> | <code>STATUS: ONLINE</code> ✨ •</p>
 </div>
 
-<p align="center">
-  <img src="https://vercel.app" width="100%" />
-</p>
-
-
+<!-- Inline visual divider matching the banner tone -->
+<hr color="#FF69B4" size="3">
 
 
 </div>
