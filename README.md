@@ -3,17 +3,27 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://giphy.com" width="100" alt="Pink Anime Mascot"></td>
-      <td>
-        <pre>
- █▄▄ ▄▀█ █▄░█ █▄░█ █▀▀ █▀█
- █▄█ █▀█ █░▀█ █░▀█ ██▄ █▀▄
+      <!-- Left Column: Themed Pixel Art Mascot -->
+      <td align="center" valign="middle">
+        <img src="https://giphy.com" width="100" alt="Cyber Pink Pixel Mascot">
+      </td>
+      <!-- Right Column: Pink Custom ASCII Font -->
+      <td valign="middle">
+        <pre align="left">
+<font color="#FF69B4"> █▄▄ ▄▀█ █▄░█ █▄░█ █▀▀ █▀█ </font>
+<font color="#FF007F"> █▄█ █▀█ █░▀█ █░▀█ ██▄ █▀▄ </font>
         </pre>
       </td>
     </tr>
   </table>
-  <p>• <code>system online — welcome _</code> •</p>
+  <br>
+  <p>• 🎀 <code>SYSTEM STATUS: ONLINE</code> | <code>MOOD: CODING</code> ✨ •</p>
 </div>
+
+<p align="center">
+  <img src="https://vercel.app" width="100%" />
+</p>
+
 
 
 
