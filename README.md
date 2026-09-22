@@ -1,6 +1,21 @@
 <div align="center">
 
-<img src="./boledi-y2k-banner.png" width="100%" alt="Boledi — Cloud AI Architect">
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://giphy.com" width="100" alt="Pink Anime Mascot"></td>
+      <td>
+        <pre>
+ █▄▄ ▄▀█ █▄░█ █▄░█ █▀▀ █▀█
+ █▄█ █▀█ █░▀█ █░▀█ ██▄ █▀▄
+        </pre>
+      </td>
+    </tr>
+  </table>
+  <p>• <code>system online — welcome _</code> •</p>
+</div>
+
+
 
 </div>
 ### About me
