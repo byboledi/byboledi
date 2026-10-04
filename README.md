@@ -1,34 +1,10 @@
-<div align="center">
 
-<div align="center">
-  <table>
-    <tr>
-      <!-- Left Column: Replace './assets/mascot.gif' with your uploaded pixel art file -->
-      <td align="center" valign="middle" width="120">
-        <img src="./assets/mascot.gif" width="90" alt="Cyber Pink Pixel Mascot">
-      </td>
-      <!-- Right Column: Solid Cyber-Pink BOLEDI ASCII Font -->
-      <td valign="middle">
-        <pre align="left">
-<font color="#FF69B4"> █▀▄ █▀█ █░░ █▀▀ █▀▄ █ </font>
-<font color="#FF007F"> █▄▀ █▄█ █▄▄ ██▄ █▄▀ ▄ </font>
-        </pre>
-      </td>
-    </tr>
-  </table>
-  <br>
-  <!-- Custom subtitles matching the Japanese banner details (Vol.01 / 2003) -->
-  <p>• 🎀 <code>ボレディ // VOL.01</code> | <code>STATUS: ONLINE</code> ✨ •</p>
-</div>
-
-<!-- Inline visual divider matching the banner tone -->
-<hr color="#FF69B4" size="3">
 
 
 </div>
 ### About me
 
-- 🎓 General student at the Hyde Park High School
+- 🎓 General student at Hyde Park High School
 - ☁️ Working toward becoming an **AI Security Architect**
 - 📜 Currently pursuing certifications across **AWS**, **Azure**, **GCP**, and **Cisco**
 - 🔐 Interested in cloud security, infrastructure automation, and OSINT
@@ -62,4 +38,4 @@
 
 ### 📫 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/boledi-08b3ab414)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/boledi-sehlapelo )
