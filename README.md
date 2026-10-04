@@ -2,7 +2,7 @@
 
 
 </div>
-**About me**
+About me
 
 - 🎓 General student at Hyde Park High School
 - ☁️ Working toward becoming an **AI Security Architect**
