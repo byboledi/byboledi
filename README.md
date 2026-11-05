@@ -5,7 +5,7 @@
 About me
 
 - 🎓 General student at Hyde Park High School
-- ☁️ Working toward becoming an **AI Security Architect**
+- 🦾 Working toward becoming an **AI Security Architect**
 - 📜 Currently pursuing certifications across **AWS**, **Azure**, **GCP**, and **Cisco**
 - 🔐 Interested in cloud security, infrastructure automation, and OSINT
 - 📍 Based in Johannesburg, South Africa
