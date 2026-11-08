@@ -36,12 +36,11 @@ About me
 
 ![Python](https://shields.io)
 ![AWS](https://shields.io)
-![OWASP](https://shields.io)
-![Guardrail](https://shields.io)
+
 
 
 ---
 
 ### 📫 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/boledi-sehlapelo )
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/boledi )
