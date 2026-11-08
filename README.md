@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="https://tenor.com" width="220" alt="Boledi AI Security Architect Logo">
+  <img src="magical-girl-mahou-shoujo.gif" width="220" alt="Boledi AI Security Architect Logo">
 </p>
+
 
 
 </div>
