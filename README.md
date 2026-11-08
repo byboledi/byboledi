@@ -33,7 +33,11 @@ About me
 ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![Python](https://shields.io) ![AWS](https://shields.io) ![OWASP](https://shields.io) ![Guardrail](https://shields.io)
+
+![Python](https://shields.io)
+![AWS](https://shields.io)
+![OWASP](https://shields.io)
+![Guardrail](https://shields.io)
 
 
 ---
