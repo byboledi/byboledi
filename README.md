@@ -38,7 +38,23 @@ About me
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
-
+<p align="left">
+  <a href="https://opswatacademy.com" target="_blank">
+    <img src="https://shields.io" height="45" alt="OPSWAT Badge">
+  </a>
+  <a href="https://securiti.ai" target="_blank">
+    <img src="https://shields.io" height="45" alt="Securiti AI Badge">
+  </a>
+  <a href="https://amazon.com" target="_blank">
+    <img src="https://shields.io" height="45" alt="AWS Badge">
+  </a>
+  <a href="https://fortinet.com" target="_blank">
+    <img src="https://shields.io" height="45" alt="Fortinet Badge">
+  </a>
+  <a href="https://cisco.com" target="_blank">
+    <img src="https://shields.io" height="45" alt="Cisco Badge">
+  </a>
+</p>
 
 
 ---
