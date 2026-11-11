@@ -38,7 +38,17 @@ About me
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
-![My Skills](https://skillicons.dev)
+### 🧰 Tech I work with
+<p align="left">
+  <img src="https://jsdelivr.net" width="40" height="40" />
+  <img src="https://jsdelivr.net" width="40" height="40" />
+  <img src="https://jsdelivr.net" width="40" height="40" />
+  <img src="https://jsdelivr.net" width="40" height="40" />
+  <img src="https://jsdelivr.net" width="40" height="40" />
+  <img src="https://jsdelivr.net" width="40" height="40" />
+  <img src="https://jsdelivr.net" width="40" height="40" />
+</p>
+
 
 ---
 
