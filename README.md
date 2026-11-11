@@ -49,6 +49,17 @@ About me
   <img src="https://jsdelivr.net" width="40" height="40" />
 </p>
 
+### 🧰 Tech I work with
+<p align="left">
+  <img src="https://githubusercontent.com" width="40" height="40" />
+  <img src="https://githubusercontent.com" width="40" height="40" />
+  <img src="https://githubusercontent.com" width="40" height="40" />
+  <img src="https://githubusercontent.com" width="40" height="40" />
+  <img src="https://githubusercontent.com" width="40" height="40" />
+  <img src="https://githubusercontent.com" width="40" height="40" />
+  <img src="https://githubusercontent.com" width="40" height="40" />
+</p>
+
 
 ---
 
